@@ -1,0 +1,13 @@
+comfyui:
+    base_path: E:/Github/ComfyUI/models
+    checkpoints: checkpoints
+    clip: text_encoders
+    clip_vision: clip_vision
+    controlnet: controlnet
+    diffusion_models: diffusion_models
+    embeddings: embeddings
+    loras: loras
+    upscale_models: upscale_models
+    vae: vae
+    text_encoders: text_encoders
+    unet: unet
